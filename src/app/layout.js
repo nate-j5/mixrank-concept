@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Mixrank Map",
+  title: "MixRank Map",
   description: "View popular sectors in a city",
 };
 
