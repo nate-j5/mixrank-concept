@@ -22,7 +22,7 @@ function Navbar() {
       <div className="hidden md:flex space-x-6">
         <a
           className="text-white font-extralight text-xs hover:text-white transition"
-          href="https://github.com/nate-j5"
+          href="https://github.com/nate-j5/mixrank-concept"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="View Code"

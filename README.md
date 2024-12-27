@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## MixRank Map Concept
 
-## Getting Started
+This app allows users view popular sectors in a city. 
 
-First, run the development server:
+The data is not accurate, but it demonstrates how MixRank could create interesting front-end displays in the future.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Link: [Live Demo](https://mixrank-concept.onrender.com/)  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Note: Please allow up to 30 seconds for the site to load - it's hosted for free. 
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Functionality
 
-## Learn More
+### 1. **Landing Page**  
+Click on a city to view industry data.
 
-To learn more about Next.js, take a look at the following resources:
+<img src="public/assets/ss1.png" alt="screenshot 1" width="1000" style="margin: 20px 0;" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 2. **View Data**  
+View popular sectors in that city.
 
-## Deploy on Vercel
+<img src="public/assets/ss2.png" alt="screenshot 1" width="1000" style="margin: 20px 0;" />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Housekeeping
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The data in the project is not vetted for accuracy. 
